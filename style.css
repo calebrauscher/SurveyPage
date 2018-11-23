@@ -1,0 +1,36 @@
+body {
+  background-color: #D1B894;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#survey-form {
+  background-color: #F0EDE5;
+  padding-bottom: 10px;
+}
+
+#survey-body {
+  margin: 0 auto;
+  text-align: center;
+  width: 40%;
+}
+
+label {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+input, select {
+  display: block;
+  margin: 0 auto;
+}
+
+input[type=radio] {
+  display: inline;
+}
+
+#text {
+  margin-top: 15px;
+}
+
+
